@@ -8,10 +8,9 @@
 
 <div class="d-block">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=abdu0zd&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="fabianocouto" width=48.7% align=right /></a>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu0zd&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-
+   
 </div>
-
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdu0zd&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" align=right />
 
 
 - 🔭 I’m currently working on [Vodocode](https://www.Vodocode.com)
