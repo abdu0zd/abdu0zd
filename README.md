@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=145&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=145&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=247FA7&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%96%90%2C+My+name+is+Abdulkarem;Bachelor+degree+in+computer+science;Be+welcome+%F0%9F%98%89)
 
