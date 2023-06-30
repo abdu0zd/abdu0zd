@@ -6,7 +6,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdu0zd&bg_color=0d1117&color=4a9ff2&line=458bd1&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdu0zd&show_icons=false&theme=transparent)
+<div class="d-block">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=abdu0zd&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="fabianocouto" width=48.7% align=right /></a>
+</div>
 
 
 
