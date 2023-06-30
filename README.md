@@ -1,3 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=247FA7&width=435&lines=Hello+%F0%9F%96%90%2C+My+name+is+Abdulkarem;Bachelor+degree+in+computer+science;Be+welcome+%F0%9F%98%89)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdu0zd&bg_color=0d1117&color=4a9ff2&line=458bd1&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdu0zd&show_icons=true&theme=transparent)
+
 <h1 align="center">Hi 👋, I'm Abdulkarem Abdalla</h1>
 <h3 align="center">A passionate backend developer from Libya</h3>
 
