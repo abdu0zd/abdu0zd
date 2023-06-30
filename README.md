@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4a9ff2&height=145&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24292f&height=145&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=247FA7&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%96%90%2C+My+name+is+Abdulkarem;Bachelor+degree+in+computer+science;Be+welcome+%F0%9F%98%89)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdu0zd&bg_color=0d1117&color=4a9ff2&line=458bd1&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdu0zd&bg_color=24292f&color=4a9ff2&line=458bd1&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div class="d-block">
