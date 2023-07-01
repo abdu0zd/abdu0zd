@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **PHP , Python.**
 
-- 📫 How to reach me **abdu0zd@gmail.com**
+- 📫 How to reach me **abdu0zd@abdu0zd.com**
 
 - 📄 Know about my experiences [www.abdu0zd.com/resume.pdf](www.abdu0zd.com/resume.pdf)
 
